@@ -1,5 +1,5 @@
 ---
-title: "Aging and the Elderly in the ECCU - A Snapshot"
+title: "A Snapshot of Aging and the Elderly in the ECCU"
 author: "Martina Regis"
 toc: true
 number-sections: false
